@@ -102,6 +102,7 @@
   <ItemGroup>
     <Content Include="Assets\css\myCustomCSS.css" />
     <Content Include="Assets\myImages\adwords.ico" />
+    <Content Include="Assets\myImages\azure.png" />
     <Content Include="Assets\myImages\beach-beautiful-blue-coast-40976.jpeg" />
     <Content Include="Assets\myImages\beach.jpg" />
     <Content Include="Assets\myImages\blog.jpg" />
@@ -132,6 +133,28 @@
     <Content Include="Assets\myImages\MHTML5.png" />
     <Content Include="Assets\myImages\MoneyManagerPhoto.png" />
     <Content Include="Assets\myImages\Money_Manager.png" />
+    <Content Include="Assets\myImages\New\angular.png" />
+    <Content Include="Assets\myImages\New\angular128.png" />
+    <Content Include="Assets\myImages\New\angular2.png" />
+    <Content Include="Assets\myImages\New\angular3.png" />
+    <Content Include="Assets\myImages\New\AWS-Certified-1.png" />
+    <Content Include="Assets\myImages\New\AWS-Certified-128.png" />
+    <Content Include="Assets\myImages\New\aws.png" />
+    <Content Include="Assets\myImages\New\aws1.png" />
+    <Content Include="Assets\myImages\New\azure-fundamentals-600x600.png" />
+    <Content Include="Assets\myImages\New\azurecertified.png" />
+    <Content Include="Assets\myImages\New\azurecertified128.png" />
+    <Content Include="Assets\myImages\New\azurefundamentalsclear128.png" />
+    <Content Include="Assets\myImages\New\NET.png" />
+    <Content Include="Assets\myImages\New\NET1-128.png" />
+    <Content Include="Assets\myImages\New\NET2.png" />
+    <Content Include="Assets\myImages\New\OOP-32.jpg" />
+    <Content Include="Assets\myImages\New\OOP.jpg" />
+    <Content Include="Assets\myImages\New\OOP1-32.png" />
+    <Content Include="Assets\myImages\New\OOP1.png" />
+    <Content Include="Assets\myImages\New\VS.png" />
+    <Content Include="Assets\myImages\New\VS2.png" />
+    <Content Include="Assets\myImages\New\VS32.png" />
     <Content Include="Assets\myImages\plane-icon.png" />
     <Content Include="Assets\myImages\poker.jpg" />
     <Content Include="Assets\myImages\portfolioimage1.JPG" />
