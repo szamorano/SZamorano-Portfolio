@@ -176,8 +176,7 @@
     <Content Include="private.config" />
     <None Include="Properties\PublishProfiles\szamorano-portfolio - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\szamorano-portfolio - Web Deploy.pubxml" />
-    <Content Include="Steven Zamorano - WinstonITResume2017.pdf" />
-    <Content Include="steven_zamorano.pdf" />
+    <Content Include="StevenZamorano-2024DeveloperResume.pdf" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
