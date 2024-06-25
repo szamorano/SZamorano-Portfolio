@@ -8,22 +8,22 @@
 }
 
 .pimg1 {
-    background-image: url('../myImages/3.jpg');
+    background-image: url('../myImages/DatingApp.PNG');
     min-height: 400px;
 }
 
 .pimg2 {
-    background-image: url('../myImages/BugTracker.png');
+    background-image: url('../myImages/WatchFlix.PNG');
     min-height: 400px;
 }
 
 .pimg3 {
-    background-image: url('../myImages/BlogPhoto.png');
+    background-image: url('../myImages/landingpage-restaurant.PNG');
     min-height: 400px;
 }
 
 .pimg4 {
-    background-image: url('../myImages/MoneyManagerPhoto.png');
+    background-image: url('../myImages/GigHub.PNG');
     min-height: 400px;
 }
 .ptext {
@@ -48,7 +48,7 @@
 }*/
 
 .ptext a {
-    color:white;
+    color:black;
 }
 
 .ptext a:hover {

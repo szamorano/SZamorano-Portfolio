@@ -118,9 +118,11 @@
     <Content Include="Assets\myImages\css3-icon.png" />
     <Content Include="Assets\myImages\css3.png" />
     <Content Include="Assets\myImages\css3shield.png" />
+    <Content Include="Assets\myImages\DatingApp.PNG" />
     <Content Include="Assets\myImages\fanduel.jpg" />
     <Content Include="Assets\myImages\favicon.ico" />
     <Content Include="Assets\myImages\fitness.jpg" />
+    <Content Include="Assets\myImages\GigHub.PNG" />
     <Content Include="Assets\myImages\GitHub-Mark-64px.png" />
     <Content Include="Assets\myImages\HTML51.png" />
     <Content Include="Assets\myImages\HTML5_Logo_256.png" />
@@ -128,6 +130,7 @@
     <Content Include="Assets\myImages\JavaScript128.png" />
     <Content Include="Assets\myImages\jquery-128.png" />
     <Content Include="Assets\myImages\jquery.jpg" />
+    <Content Include="Assets\myImages\landingpage-restaurant.PNG" />
     <Content Include="Assets\myImages\logo-github.svg" />
     <Content Include="Assets\myImages\logo-stack-overflow.svg" />
     <Content Include="Assets\myImages\MHTML5.png" />
@@ -167,6 +170,7 @@
     <Content Include="Assets\myImages\travel.jpeg" />
     <Content Include="Assets\myImages\Trignobit-bootstrap.png" />
     <Content Include="Assets\myImages\visio.png" />
+    <Content Include="Assets\myImages\WatchFlix.PNG" />
     <Content Include="Assets\myImages\worklifebalance.jpg" />
     <Content Include="packages.config" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
