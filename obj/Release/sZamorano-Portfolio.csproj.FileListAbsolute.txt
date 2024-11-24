@@ -53,3 +53,21 @@ C:\Users\User\documents\visual studio 2017\Projects\sZamorano-Portfolio\obj\Rele
 C:\Users\User\documents\visual studio 2017\Projects\sZamorano-Portfolio\obj\Release\sZamorano-Portfolio.dll
 C:\Users\User\documents\visual studio 2017\Projects\sZamorano-Portfolio\obj\Release\sZamorano-Portfolio.pdb
 C:\Users\User\documents\visual studio 2017\Projects\sZamorano-Portfolio\obj\Release\sZamorano-Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\SZamorano-Portfolio\bin\sZamorano-Portfolio.dll.config
+C:\Users\steve\source\repos\SZamorano-Portfolio\bin\sZamorano-Portfolio.dll
+C:\Users\steve\source\repos\SZamorano-Portfolio\bin\sZamorano-Portfolio.pdb
+C:\Users\steve\source\repos\SZamorano-Portfolio\bin\Newtonsoft.Json.dll
+C:\Users\steve\source\repos\SZamorano-Portfolio\bin\Antlr3.Runtime.pdb
+C:\Users\steve\source\repos\SZamorano-Portfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\steve\source\repos\SZamorano-Portfolio\bin\System.Web.Helpers.xml
+C:\Users\steve\source\repos\SZamorano-Portfolio\bin\System.Web.Mvc.xml
+C:\Users\steve\source\repos\SZamorano-Portfolio\bin\System.Web.Optimization.xml
+C:\Users\steve\source\repos\SZamorano-Portfolio\bin\System.Web.Razor.xml
+C:\Users\steve\source\repos\SZamorano-Portfolio\bin\System.Web.WebPages.xml
+C:\Users\steve\source\repos\SZamorano-Portfolio\bin\System.Web.WebPages.Deployment.xml
+C:\Users\steve\source\repos\SZamorano-Portfolio\bin\System.Web.WebPages.Razor.xml
+C:\Users\steve\source\repos\SZamorano-Portfolio\obj\Release\sZamorano-Portfolio.csproj.AssemblyReference.cache
+C:\Users\steve\source\repos\SZamorano-Portfolio\obj\Release\sZamorano-Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\SZamorano-Portfolio\obj\Release\sZamorano-Portfolio.csproj.CopyComplete
+C:\Users\steve\source\repos\SZamorano-Portfolio\obj\Release\sZamorano-Portfolio.dll
+C:\Users\steve\source\repos\SZamorano-Portfolio\obj\Release\sZamorano-Portfolio.pdb

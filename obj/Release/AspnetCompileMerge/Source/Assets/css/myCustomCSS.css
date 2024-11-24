@@ -1,0 +1,56 @@
+﻿.pimg1, .pimg2, .pimg3, .pimg4 {
+    position: relative;
+    opacity: 0.80;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg1 {
+    background-image: url('../myImages/DatingApp.PNG');
+    min-height: 400px;
+}
+
+.pimg2 {
+    background-image: url('../myImages/WatchFlix.PNG');
+    min-height: 400px;
+}
+
+.pimg3 {
+    background-image: url('../myImages/landingpage-restaurant.PNG');
+    min-height: 400px;
+}
+
+.pimg4 {
+    background-image: url('../myImages/GigHub.PNG');
+    min-height: 400px;
+}
+.ptext {
+    position:absolute;
+    top:50%;
+    width:100%;
+    text-align:center;
+    color:#fff;
+    font-size:27px;
+    letter-spacing:8px;
+    text-transform:uppercase;
+}
+
+/*.ptext .border {
+    background-color:#111;
+    color:#fff;
+    padding:10px;
+}
+
+.ptext .border .trans {
+    background-color:transparent;
+}*/
+
+.ptext a {
+    color:black;
+}
+
+.ptext a:hover {
+    font-weight:bold;
+}

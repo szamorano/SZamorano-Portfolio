@@ -13,7 +13,7 @@
 }
 
 .pimg2 {
-    background-image: url('../myImages/WatchFlix.PNG');
+    background-image: url('../myImages/investment-calculator.PNG');
     min-height: 400px;
 }
 
@@ -23,21 +23,22 @@
 }
 
 .pimg4 {
-    background-image: url('../myImages/GigHub.PNG');
+    background-image: url('../myImages/task-manager.PNG');
     min-height: 400px;
 }
+
 .ptext {
-    position:absolute;
-    top:50%;
-    width:100%;
-    text-align:center;
-    color:#fff;
-    font-size:27px;
-    letter-spacing:8px;
-    text-transform:uppercase;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
 }
 
-/*.ptext .border {
+    /*.ptext .border {
     background-color:#111;
     color:#fff;
     padding:10px;
@@ -47,10 +48,14 @@
     background-color:transparent;
 }*/
 
-.ptext a {
-    color:black;
+    .ptext a {
+        color: black;
+    }
+
+.wtext a {
+    color: white;
 }
 
 .ptext a:hover {
-    font-weight:bold;
+    font-weight: bold;
 }

@@ -127,6 +127,7 @@
     <Content Include="Assets\myImages\HTML51.png" />
     <Content Include="Assets\myImages\HTML5_Logo_256.png" />
     <Content Include="Assets\myImages\HTML_Color_Black.png" />
+    <Content Include="Assets\myImages\investment-calculator.PNG" />
     <Content Include="Assets\myImages\JavaScript128.png" />
     <Content Include="Assets\myImages\jquery-128.png" />
     <Content Include="Assets\myImages\jquery.jpg" />
@@ -167,6 +168,7 @@
     <Content Include="Assets\myImages\slight_smile.png" />
     <Content Include="Assets\myImages\soccer.jpg" />
     <Content Include="Assets\myImages\soccer.png" />
+    <Content Include="Assets\myImages\task-manager.PNG" />
     <Content Include="Assets\myImages\travel.jpeg" />
     <Content Include="Assets\myImages\Trignobit-bootstrap.png" />
     <Content Include="Assets\myImages\visio.png" />
@@ -178,9 +180,8 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
     <Content Include="private.config" />
-    <None Include="Properties\PublishProfiles\szamorano-portfolio - FTP.pubxml" />
-    <None Include="Properties\PublishProfiles\szamorano-portfolio - Web Deploy.pubxml" />
     <Content Include="StevenZamorano-2024DeveloperResume.pdf" />
+    <None Include="Properties\PublishProfiles\szamorano-portfolio - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

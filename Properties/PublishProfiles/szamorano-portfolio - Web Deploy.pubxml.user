@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--
 This file is used by the publish/package process of your Web project. You can customize the behavior of this process
 by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
@@ -6,7 +6,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAr9cszuSmZ0utVPJiVpJYLgAAAAACAAAAAAAQZgAAAAEAACAAAAAffQvdW9228iVKnjsmY1dvf89YsMxZzB7duzavwKo+TgAAAAAOgAAAAAIAACAAAACAllhUXegbZ0Cbl4fue81JCreQsbnOI3bvP6M8+F7nUoAAAAD9U3DIwQ1GEF6XOiezp79lRouW/1cjWR08QNcUbjYkddXVpzENxAPsR3A/rENDaK0Yu9/lSt23WfFG56vrwsHawwBgSdblFamUKeNScxy8aMjHTWNjSbu095Zxo9szYqSkOcl2FVd4gnN1JxLVnbvrMm0WElHQbPSTUPqocJkScUAAAABkfI4LIBnzq18Bepvnq0857JnUb+HWhQ2qn3varDWm2zr/DQnvLo4TgIGdW7LJCCcSAwE7MqB2mbmDkeVH91Xu</EncryptedPassword>
-    <_NewBackgroundProfile>True</_NewBackgroundProfile>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA/Dagd9OM/0mGo9VV8fnGLgAAAAACAAAAAAAQZgAAAAEAACAAAAC8UG79CQ8qB/TIpihDMq6tJZ9i3ZsMIkx2vmCi8NJ/KQAAAAAOgAAAAAIAACAAAAANDiuaeaxYkuu4BeoI0nzhs5ff8NARJy9VS75o1vReA4AAAACK3tvpcn2AeGIkJtJcd5d51z0Fe7nmC6cPNXk9XLv3x9qBHTug9BhnPYWp5X8Eq9r/GB+wai2AkyznpT5wH2RnXaHmLyOm94W0+SjSJ1cwhAKDKBSOql+jdYJBTn4u45bCcitWSbiCBd/5nIOAOlV9r0bJiLf1y9ItwpCluZ3ozEAAAABBOhKfR8+Y6nasZkTNyCqMIuO1DE47akJ1ae0Fg8f448HYV33TvsjV/HPiQIqx4YW8Rt2W5xZbhHn9EUmQzbx8</EncryptedPassword>
+    <History>False|2024-07-22T18:03:29.9780297Z;False|2024-06-25T11:05:51.6151644-04:00;True|2024-06-25T10:43:21.6872052-04:00;True|2024-06-25T10:19:42.3315289-04:00;</History>
   </PropertyGroup>
 </Project>
